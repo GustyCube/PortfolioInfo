@@ -1,0 +1,184 @@
+{
+  "profile": {
+    "name": "Bennett Schwartz (GustyCube)",
+    "title": "Full Stack Developer",
+    "tagline": "Building innovative code solutions with passion",
+    "avatar": "https://avatars.githubusercontent.com/u/97700455?v=4",
+    "heroImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop",
+    "contact": {
+      "email": "gc@gustycube.xyz",
+      "phone": "+1 (555) 123-4567",
+      "location": "United States"
+    },
+    "social": {
+      "github": "https://github.com/GustyCube",
+      "linkedin": "https://linkedin.com/in/bennettschwartz",
+      "twitter": "https://twitter.com/GustyCubeDev"
+    },
+    "resumeLink": "https://gustycube.xyz/resume.pdf"
+  },
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "company": "Tech Innovations Inc.",
+      "duration": "2023 - Present",
+      "location": "Remote",
+      "description": "Leading development of cloud-based SaaS platform using React, Node.js, and AWS.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Leadership", "Web Development", "Cloud"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "Digital Solutions",
+      "duration": "2021 - 2023",
+      "location": "Remote",
+      "description": "Developed responsive web applications using modern JavaScript frameworks.",
+      "image": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Frontend", "UI/UX", "Web Development"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Backend Developer",
+      "company": "DataSystems Corp",
+      "duration": "2019 - 2021",
+      "location": "United States",
+      "description": "Built scalable APIs and microservices using Node.js and MongoDB.",
+      "image": "https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Backend", "Database", "API Design"],
+      "link": "#"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Frontend Development",
+      "subtitle": "Advanced Level",
+      "description": "Proficient in React, Vue.js, and modern JavaScript frameworks.",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=300&auto=format&fit=crop",
+      "categories": ["JavaScript", "React", "Vue"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Backend Development",
+      "subtitle": "Expert Level",
+      "description": "Strong skills in Node.js, Express, and RESTful APIs.",
+      "image": "https://images.unsplash.com/photo-1548611716-1eccf752900f?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Node.js", "Express", "APIs"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Cloud Technologies",
+      "subtitle": "Intermediate Level",
+      "description": "Experience with AWS, Docker, and Kubernetes for cloud deployments.",
+      "image": "https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?q=80&w=300&auto=format&fit=crop",
+      "categories": ["AWS", "Docker", "DevOps"],
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Database Management",
+      "subtitle": "Advanced Level",
+      "description": "Proficient with SQL and NoSQL databases including MongoDB, PostgreSQL, and Redis.",
+      "image": "https://images.unsplash.com/photo-1625720260697-ea95ee7b820d?q=80&w=300&auto=format&fit=crop",
+      "categories": ["MongoDB", "PostgreSQL", "Database"],
+      "link": "#"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "title": "Computer Science Degree",
+      "institution": "Tech University",
+      "duration": "2015 - 2019",
+      "location": "United States",
+      "description": "Specialized in Web Technologies and Software Engineering.",
+      "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Computer Science", "Software Engineering"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Web Development",
+      "institution": "Coding Academy",
+      "duration": "2020",
+      "location": "Online",
+      "description": "Intensive training in modern web development technologies and frameworks.",
+      "image": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Web Development", "Bootcamp"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "AWS Certified Solutions Architect",
+      "institution": "Amazon Web Services",
+      "duration": "2022",
+      "location": "Online",
+      "description": "Professional certification in designing distributed systems on AWS.",
+      "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=300&auto=format&fit=crop",
+      "categories": ["AWS", "Certification", "Cloud"],
+      "link": "#"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "subtitle": "Full Stack Project",
+      "description": "A complete e-commerce solution with shopping cart, payment processing, and admin dashboard.",
+      "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Full Stack", "E-commerce", "React"],
+      "link": "https://github.com/GustyCube/ecommerce-platform"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "subtitle": "Frontend Project",
+      "description": "A drag-and-drop task board with real-time updates and team collaboration features.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Frontend", "React", "Firebase"],
+      "link": "https://github.com/GustyCube/task-manager"
+    },
+    {
+      "id": 3,
+      "title": "API Gateway Service",
+      "subtitle": "Backend Project",
+      "description": "A scalable API gateway for microservices with authentication and rate limiting.",
+      "image": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Backend", "Microservices", "Node.js"],
+      "link": "https://github.com/GustyCube/api-gateway"
+    },
+    {
+      "id": 4,
+      "title": "Finance Dashboard",
+      "subtitle": "Data Visualization",
+      "description": "Interactive finance dashboard with charts and real-time data visualization.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Data Visualization", "JavaScript", "D3.js"],
+      "link": "https://github.com/GustyCube/finance-dashboard"
+    },
+    {
+      "id": 5,
+      "title": "Weather Tracking App",
+      "subtitle": "Mobile Project",
+      "description": "A cross-platform mobile application for real-time weather tracking with location services.",
+      "image": "https://images.unsplash.com/photo-1530908295418-a12e326966ba?q=80&w=300&auto=format&fit=crop",
+      "categories": ["Mobile", "React Native", "API Integration"],
+      "link": "https://github.com/GustyCube/weather-app"
+    },
+    {
+      "id": 6,
+      "title": "DevOps Automation Tools",
+      "subtitle": "Infrastructure Project",
+      "description": "A collection of automation scripts and tools for CI/CD pipelines and infrastructure management.",
+      "image": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?q=80&w=300&auto=format&fit=crop",
+      "categories": ["DevOps", "Automation", "CI/CD"],
+      "link": "https://github.com/GustyCube/devops-tools"
+    }
+  ]
+}
